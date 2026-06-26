@@ -35,6 +35,7 @@ public class SecondLargestElement {
 
 
         System.out.println("largest Element is"+largest2);
+        sc.close();
     }
 }
 
